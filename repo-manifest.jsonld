@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/deepchecks/deepchecks/commit/98475d17b08a21fca29d533b94b8ec3c70544a85",
       "git:hexsha": "98475d17b08a21fca29d533b94b8ec3c70544a85",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T10:09:53.463908+00:00"
     },
     {
       "@id": "https://repolex.ai/r/deepchecks/deepchecks/commit/681a46d7d7b6184fa848920294d986a2dcf5708f",
